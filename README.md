@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aakanksha 👋
 
-<!--
-**aakankshac1234-stack/aakankshac1234-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AWS Certified Data Engineer with 5+ years of experience building scalable batch and streaming data pipelines, cloud lakehouse platforms, and analytics solutions across automotive and financial services.
 
-Here are some ideas to get you started:
+## Technical Skills
+- Python
+- SQL
+- PySpark
+- Apache Spark
+- Databricks
+- Snowflake
+- AWS
+- Azure
+- Terraform
+- Airflow
+- dbt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- AWS Certified Data Engineer – Associate
+- Google Data Analytics Professional Certificate
+- Certified Scrum Product Owner (CSPO)
+
+## Interests
+Data Engineering, Lakehouse Architecture, Streaming Data, AI/ML Data Pipelines, and Generative AI.
